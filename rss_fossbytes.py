@@ -32,7 +32,7 @@ def get_fossbyte_feed():
 
 	return feeds
 
-# Save feed to file
+# Save feeds to file
 feeds = get_fossbyte_feed()
 my_file = open('rss_fossbytes.json', 'w')
 my_file.write(json.dumps(feeds))
