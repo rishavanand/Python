@@ -6,5 +6,7 @@ This repo has small scripts that I've written just to play with the language or 
 
 <hr>
 
-* **rss_fossbytes.py** - Scraps news from FossBytes's RSS feed and saves it in JSON format.
+* **rss_fossbytes.py** - Scraps news from FossBytes.com's RSS feed and saves it in JSON format.
+
+* **rss_thenextweb.py** - Scraps news from TheNextWeb's RSS feed and saves it in JSON format.
 
