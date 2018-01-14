@@ -10,3 +10,5 @@ This repo has small scripts that I've written just to play with the language or 
 
 * **rss_thenextweb.py** - Scraps news from TheNextWeb's RSS feed and saves it in JSON format.
 
+* **rss_yify.py** - Scraps movie feeds from Yify's RSS feed and saves it in JSON format.
+
