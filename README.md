@@ -12,3 +12,5 @@ This repo has small scripts that I've written just to play with the language or 
 
 * **rss_yify.py** - Scraps movie feeds from Yify's RSS feed and saves it in JSON format.
 
+* **todoist.py** - Gets incomplete todos from Todoist using Developer's API and saves it in JSON format .
+
